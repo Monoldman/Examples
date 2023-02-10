@@ -1,0 +1,15 @@
+/Users/denisuvarov/Desktop/Geek C#/Examples/bin/Debug/net6.0/Examples
+/Users/denisuvarov/Desktop/Geek C#/Examples/bin/Debug/net6.0/Examples.deps.json
+/Users/denisuvarov/Desktop/Geek C#/Examples/bin/Debug/net6.0/Examples.runtimeconfig.json
+/Users/denisuvarov/Desktop/Geek C#/Examples/bin/Debug/net6.0/Examples.dll
+/Users/denisuvarov/Desktop/Geek C#/Examples/bin/Debug/net6.0/Examples.pdb
+/Users/denisuvarov/Desktop/Geek C#/Examples/obj/Debug/net6.0/Examples.csproj.AssemblyReference.cache
+/Users/denisuvarov/Desktop/Geek C#/Examples/obj/Debug/net6.0/Examples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisuvarov/Desktop/Geek C#/Examples/obj/Debug/net6.0/Examples.AssemblyInfoInputs.cache
+/Users/denisuvarov/Desktop/Geek C#/Examples/obj/Debug/net6.0/Examples.AssemblyInfo.cs
+/Users/denisuvarov/Desktop/Geek C#/Examples/obj/Debug/net6.0/Examples.csproj.CoreCompileInputs.cache
+/Users/denisuvarov/Desktop/Geek C#/Examples/obj/Debug/net6.0/Examples.dll
+/Users/denisuvarov/Desktop/Geek C#/Examples/obj/Debug/net6.0/refint/Examples.dll
+/Users/denisuvarov/Desktop/Geek C#/Examples/obj/Debug/net6.0/Examples.pdb
+/Users/denisuvarov/Desktop/Geek C#/Examples/obj/Debug/net6.0/Examples.genruntimeconfig.cache
+/Users/denisuvarov/Desktop/Geek C#/Examples/obj/Debug/net6.0/ref/Examples.dll
